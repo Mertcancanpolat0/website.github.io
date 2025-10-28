@@ -16,10 +16,9 @@ Kendimi tanıttığım bir site.
 **Kullanılan Teknolojiler**
 
 Teknoloji | Açıklama 
-HTML5 | Sayfanın temel yapısı 
-CSS3  | Sayfa düzeni ve stillendirme 
-Font Awesome | Sosyal medya ikonları 
-Google Fonts |Yazı tipi tasarımı 
+HTML5 : Sayfanın temel yapısı /
+CSS3 :  Sayfa düzeni ve stillendirme /
+Google Fonts :Yazı tipi tasarımı /
 
 
 Web Site linkim : https://mertcancanpolat0.github.io/website.github.io/
