@@ -16,8 +16,8 @@ Kendimi tanıttığım bir site.
 **Kullanılan Teknolojiler**
 
 Teknoloji | Açıklama 
-HTML5  Sayfanın temel yapısı 
-CSS3   Sayfa düzeni ve stillendirme 
-Font AwesomeSosyal medya ikonları 
-Google FontsYazı tipi tasarımı 
+HTML5 | Sayfanın temel yapısı 
+CSS3  | Sayfa düzeni ve stillendirme 
+Font Awesome | Sosyal medya ikonları 
+Google Fonts |Yazı tipi tasarımı 
 
